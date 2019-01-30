@@ -4,6 +4,5 @@ Git is free software uuu jjjunder under the GPL.
 Git has a mutable index called stage.
 11111111
 222222
-3333333
-Creating a new branch is quick.
+333333
 Creating a new branch is quick AND simple.
